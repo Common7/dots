@@ -1,0 +1,3 @@
+[debug]
+try_suppress_warnings = true
+try_suppress_errors = true
